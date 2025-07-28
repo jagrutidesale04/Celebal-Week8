@@ -1,0 +1,8 @@
+openai
+transformers
+sentence-transformers
+faiss-cpu
+pandas
+scikit-learn
+streamlit
+python-dotenv
